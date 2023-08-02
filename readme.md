@@ -2,4 +2,4 @@
 <p>Idk just a program for notes</p>
 
 <h2>Updates</h2>
-<p>Updates in releases lol</p>
+<p>Updates in <a href="https://github.com/NowyAlexx/ManyNotes/releases">releases page</a> lol</p>
